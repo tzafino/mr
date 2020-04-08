@@ -7,7 +7,7 @@
 {"number":"4","name":"Radio Coran","description":"","logo":"/mr.png","streamUrl":"http://dedi.radio-coran.net:8000/live.mp3","yourmuzeId":"0","state":"1"},
 {"number":"5","name":"Radio ZamZam","description":"","logo":"/mr.png","streamUrl":"http://149.202.185.104:8220/;","yourmuzeId":"0","state":"1"},
 {"number":"6","name":"Radio Quraan","description":"","logo":"/mr.png","streamUrl":"http://66.45.232.131:9994/;","yourmuzeId":"0","state":"1"},
-{"number":"7","name":"imbatfm","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/mr/master/mr.png","streamUrl":"http://38.96.148.18:8127/;","yourmuzeId":"0","state":"1"},
+{"number":"7","name":"imbatfm","description":"","logo":"/mr.png","streamUrl":"http://38.96.148.18:8127/;","yourmuzeId":"0","state":"1"},
 {"number":"8","name":"radyocanki","description":"","logo":"/mr.png","streamUrl":"http://37.187.76.29:8864/;stream/1","yourmuzeId":"0","state":"1"},
 {"number":"9","name":"Dubai 92","description":"","logo":"r10.png","streamUrl":"http://playerservices.streamtheworld.com/api/livestream-redirect/DUBAI_92.mp3","yourmuzeId":"0","state":"0"},
 {"number":"10","name":"Radio Asia","description":"","logo":"r11.png","streamUrl":"http://50.7.71.27:9699","yourmuzeId":"0","state":"0"},
