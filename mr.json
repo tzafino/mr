@@ -28,10 +28,38 @@
 {"number":"24","name":"ادعية واذكار","description":"","logo":"/doaa.jpg","streamUrl":"http://radio10.tarat.com:9358/","yourmuzeId":"0","state":"1"}, 	
 {"number":"25","name":"محمد رفعت","description":"","logo":"/rrfaat.jpg","streamUrl":"http://radio10.tarat.com:9328/;","yourmuzeId":"0","state":"1"}, 	
 {"number":"26","name":"اذكار الصباح","description":"","logo":"/xxx.jpg","streamUrl":"http://radio2.tarat.com:9300/;","yourmuzeId":"0","state":"1"}, 	
-{"number":"27","name":"اذكار المساء","description":"","logo":"/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"}
+{"number":"27","name":"اذكار المساء","description":"","logo":"/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"},
 
 
 
+  
+  
+ {"number":"47","name":"ماهر المعيقل","description":"","logo":"/m3ay9li.jpg","streamUrl":"http://server2.quraan.us:9856/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"48","name":"ياسر الدوسري","description":"","logo":"/dawsari.jpg","streamUrl":"http://quraan.us:9884/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"49","name":"ناصر القطامي","description":"","logo":"/elqatami.jpg","streamUrl":"http://server2.quraan.us:9886/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"50","name":"الشيخ مصطفي اسماعيل","description":"","logo":"/Mustafa_Ismail.jpg","streamUrl":"http://live.mp3quran.net:9800/;","yourmuzeId":"0","state":"1"},
+{"number":"51","name":"الشيخ محمد جبريل","description":"","logo":"/Mohammed-Jebreil.jpg","streamUrl":"http://quraan.us:9894/","yourmuzeId":"0","state":"1"},
+{"number":"52","name":"إذاعة الفتاوى","description":"","logo":"/300.png.jpg","streamUrl":"http://live.mp3quran.net:8014/","yourmuzeId":"0","state":"1"}, 	
+{"number":"53","name":"اذاعة السنة النبوية","description":"","logo":"/3afasi.jpg","streamUrl":"http://radio2.tarat.com:9962/","yourmuzeId":"0","state":"1"}, 	
+ 
+ 
+{"number":"57","name":"الشيخ مشاري بن راشد العفاسي","description":"","logo":"/3afasi.jpg","streamUrl":"http://live.mp3quran.net:9982/;stream.nsv&type=mp3&autostart=true","yourmuzeId":"0","state":"1"},
+{"number":"58","name":"الشيخ محمود خليل الحصري","description":"","logo":"/elhasri.jpg","streamUrl":"http://live.mp3quran.net:9804/;","yourmuzeId":"0","state":"1"},
+{"number":"59","name":"الشيخ محمود علي البنا","description":"","logo":"/elbanna.jpg" "streamUrl":"http://server2.quraan.us:9788/","yourmuzeId":"0","state":"1"},
+{"number":"60","name":"اسلام صبحي","description":"","logo":"/sobhi.jpg","streamUrl":"https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3","yourmuzeId":"0","state":"1"},
+ 
+ 
+{"number":"63","name":"اذاعة القران الكريم من القاهرة","description":"","logo":"/0.png","streamUrl":"http://vps775737.ovh.net:8000/q.ogg","yourmuzeId":"0","state":"0"}, 	
+{"number":"64","name":"محمد متولي الشعراوي","description":"","logo":"/esha3rawi.jpg","streamUrl":"http://quraan.us:9888/","yourmuzeId":"0","state":"1"},
+{"number":"65","name":"عبدالباسط عبد الصمد","description":"","logo":"/abdelbasit.jpg","streamUrl":"http://quraan.us:9916/","yourmuzeId":"0","state":"1"},
+ 
+{"number":"67","name":"محمد صديق المنشاوي","description":"","logo":"/manchawi.jpg","streamUrl":"http://server2.quraan.us:9918/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"68","name":"محمد صديق المنشاوي (المصحف المعلم)","description":"","logo":"/manchawi.jpg","streamUrl":"http://server2.quraan.us:9308/;*.mp3","yourmuzeId":"0","state":"1"} 
+  
+  
+  
+  
+  
 
 
 
