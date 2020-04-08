@@ -31,8 +31,13 @@
 {"number":"27","name":"اذكار المساء","description":"","logo":"/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"}, 
 
 
-{"number":"47","name":"ماهر المعيقل","description":"","logo":"/m3ay9li.jpg","streamUrl":"http://server2.quraan.us:9856/;*.mp3","yourmuzeId":"0","state":"1"} 
-  
+{"number":"47","name":"ماهر المعيقل","description":"","logo":"/m3ay9li.jpg","streamUrl":"http://server2.quraan.us:9856/;*.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"48","name":"ياسر الدوسري","description":"","logo":"/dawsari.jpg","streamUrl":"http://quraan.us:9884/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"49","name":"ناصر القطامي","description":"","logo":"/elqatami.jpg","streamUrl":"http://server2.quraan.us:9886/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"50","name":"الشيخ مصطفي اسماعيل","description":"","logo":"/Mustafa_Ismail.jpg","streamUrl":"http://live.mp3quran.net:9800/;","yourmuzeId":"0","state":"1"},
+{"number":"51","name":"الشيخ محمد جبريل","description":"","logo":"/Mohammed-Jebreil.jpg","streamUrl":"http://quraan.us:9894/","yourmuzeId":"0","state":"1"},
+{"number":"52","name":"إذاعة الفتاوى","description":"","logo":"/300.png.jpg","streamUrl":"http://live.mp3quran.net:8014/","yourmuzeId":"0","state":"1"}, 	
+{"number":"53","name":"اذاعة السنة النبوية","description":"","logo":"/3afasi.jpg","streamUrl":"http://radio2.tarat.com:9962/","yourmuzeId":"0","state":"1"}   
  
   
   
