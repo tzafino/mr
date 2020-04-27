@@ -15,7 +15,7 @@
 {"number":"11","name":"الشرق الاوسط","description":"","logo":"/radio_channel_10.jpg","streamUrl":"https://securestreams2.autopo.st:1034/sharky.ogg","yourmuzeId":"0","state":"1"}, 	
 {"number":"12","name":"سكاي نيوز","description":"","logo":"/unnamed.jpg","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"}, 	
 {"number":"13","name":"الشرق الاوسط من كندا","description":"","logo":"/2hyuzpf5fewz.jpg","streamUrl":"http://s2.voscast.com:7386/listen.pls?sid=1","yourmuzeId":"0","state":"1"}, 	
-{"number":"14","name":"راديو الجزيرة","description":"","logo":"/Al-jazeera.jpg","streamUrl":"http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/radioaudio.m3u8","yourmuzeId":"0","state":"1"}, 	
+{"number":"14","name":"راديو الجزيرة","description":"","logo":"/Al-jazeera.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"}, 	
 {"number":"15","name":"مونت كارلو","description":"","logo":"/246x0w.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"}, 	
 {"number":"16","name":"راديو العربية","description":"","logo":"/Al-Arabiya-FM.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/chunklist_w294458579.m3u8","yourmuzeId":"0","state":"1"}, 	
 {"number":"17","name":"قناة المجد العلمية","description":"","logo":"/Almajd_Alelmeah.jpg","streamUrl":"http://radio3.tarat.com:9316/","yourmuzeId":"0","state":"1"}, 	
